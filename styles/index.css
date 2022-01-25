@@ -23,12 +23,64 @@ h1 {
     line-height: 60px;    
 }
 
+nav {
+    color: white;
+    bottom: 25px;
+}
+
+ul {
+    padding-bottom: 5%;
+}
+
+a {
+    color: white;
+    font-size: 25px;
+}
+
 h2 {
     color: black;
     font-size: 35px;
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    text-align: left;
+    padding-left: 5%;
+    line-height: 55px;
 }
+
+h3 {
+    color: black;
+    font-size: 25 px;
+    padding-left: 5%;
+    line-height: 15px;
+    
+}
+
+p {
+    color: black;
+    padding-left: 5%;
+    font-size: 15px;
+    line-height: 12px;
+}
+
+.last paragraph {
+    color: black;
+    font-size: 15px;
+    line-height: 12 px;
+    
+}
+
+footer {
+      background-color: rgb(54, 51, 51);
+      height: 300px;
+      padding-bottom: 5%;    
+}
+
+.contact {
+    color: white;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-size: 20px;
+    line-height: 25px;
+   }
 
  
 
